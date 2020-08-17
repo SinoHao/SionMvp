@@ -74,6 +74,11 @@ public abstract class BasePresenter<V extends IBaseView, M extends IBaseModel> i
     }
 
     @Override
+    public void onStart(@NonNull LifecycleOwner owner) {
+
+    }
+
+    @Override
     public void onResume(@NonNull LifecycleOwner owner) {
 
     }
