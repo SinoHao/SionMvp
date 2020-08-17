@@ -5,7 +5,7 @@ import com.hao.sion.mvp.ui.model.IMainModel;
 import com.hao.sion.mvp.ui.view.IMainView;
 
 /**
- * Created by Hao on 2020/8/14
+ * Created by Hao on 2020/8/15
  */
 public interface IMainPresenter extends IBasePresenter<IMainView, IMainModel> {
 

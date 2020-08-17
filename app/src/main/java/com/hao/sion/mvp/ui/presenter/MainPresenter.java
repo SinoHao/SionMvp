@@ -8,7 +8,7 @@ import com.hao.sion.mvp.ui.model.MainModel;
 import com.hao.sion.mvp.ui.view.IMainView;
 
 /**
- * Created by Hao on 2020/8/14
+ * Created by Hao on 2020/8/15
  */
 public class MainPresenter extends BasePresenter<IMainView, IMainModel> implements IMainPresenter {
 
